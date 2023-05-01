@@ -5,7 +5,7 @@
 ### Para jogar no computador utilize as teclas W (Up) e S (Down). 
 ### Objetivo do jogo é rebater a bolinha com a raquete para fazer mais pontos que o seu adversário.
 
-![imagem-game](https://github.com/viniciusleonel/pong-game-p5js/blob/main/pong-game-p5js/img/screenshot.png)
+![imagem-game](https://github.com/viniciusleonel/pong-game-p5js/blob/main/img/screenshot.png)
 
 ## Link do jogo: https://pong-game-p5js-gx87.vercel.app/
 
