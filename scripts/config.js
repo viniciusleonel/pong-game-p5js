@@ -1,6 +1,6 @@
 // dificuldade
 let facil = 6;
-let medio = 3;
+let medio = 2.5;
 let dificil = 2;
 let dificuldade = medio;
 
