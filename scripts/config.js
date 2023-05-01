@@ -1,7 +1,7 @@
 // dificuldade
 let facil = 6;
 let medio = 2.5;
-let dificil = 2;
+let dificil = 1.5;
 let dificuldade = medio;
 
 let xCanvas = 1000;
