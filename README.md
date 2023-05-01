@@ -7,7 +7,7 @@
 
 ![imagem-game](https://github.com/viniciusleonel/pong-game-p5js/blob/main/pong-game-p5js/img/screenshot.png)
 
-## Link do jogo: 
+## Link do jogo: https://pong-game-p5js-gx87.vercel.app/
 
 ## Ferramentas utilizadas:
 
